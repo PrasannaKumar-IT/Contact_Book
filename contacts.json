@@ -10,5 +10,41 @@
         "phone": "963852741",
         "email": "pras@gmail.com",
         "address": "chennai"
+    },
+    {
+        "name": "Arjun Mehta",
+        "phone": "9876543210",
+        "email": "arjun.mehta@example.com",
+        "address": "Bangalore"
+    },
+    {
+        "name": "Neha Sharma",
+        "phone": "9123456789",
+        "email": "neha.sharma@example.com",
+        "address": "Hyderabad"
+    },
+    {
+        "name": "Ravi Kapoor",
+        "phone": "9988776655",
+        "email": "ravi.kapoor@example.com",
+        "address": "Chennai"
+    },
+    {
+        "name": "Pooja Verma",
+        "phone": "8899776655",
+        "email": "pooja.verma@example.com",
+        "address": "Kolkata"
+    },
+    {
+        "name": "Karan Malhotra",
+        "phone": "9090909090",
+        "email": "karan.malhotra@example.com",
+        "address": "Ahmedabad"
+    },
+    {
+        "name": "Kumar",
+        "phone": "9876543210",
+        "email": "Kumar123@gmail.com",
+        "address": "chennai"
     }
 ]
