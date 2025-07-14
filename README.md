@@ -52,7 +52,7 @@ contact_Book/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/contact-book.git
+   git clone https://github.com/PrasannaKumar-IT/contact-book.git
    cd contact-book
    ```
 
